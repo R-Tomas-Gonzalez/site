@@ -1,0 +1,10 @@
+.hero__content {
+    height: calc(100% - 65px);
+    display: flex;
+    flex-direction: row-reverse;
+    min-width: 100%;
+    
+    .social__main{
+        align-self: flex-end;
+    }
+}
