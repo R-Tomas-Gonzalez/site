@@ -5,7 +5,7 @@ import {RiLinkedinLine, RiGithubLine, RiMailLine, RiInstagramLine} from 'react-i
 export default function Social() {
     return (
         <div className='social__main'>
-            <h2><a href='https://www.linkedin.com/in/rtomasgonzalez/' target='_blank'><RiLinkedinLine /></a></h2>
+            <h2><a href='https://www.linkedin.com/in/rtomasgonzalez/' target=''><RiLinkedinLine /></a></h2>
             <h2><a href='https://github.com/R-Tomas-Gonzalez' target='_blank'><RiGithubLine /></a></h2>
             <h2><a href='mailto:r.tomas.gonzalez01@gmail.com' target='_blank'><RiMailLine /></a></h2>
             <h2><a href='https://www.instagram.com/r.tomasgonzalez/' target='_blank'><RiInstagramLine /></a></h2>
