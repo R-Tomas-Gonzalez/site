@@ -5,11 +5,11 @@ import { Hero } from './hero/Hero';
 function App() {
   return (
     <div className="App">
-    {console.log(document.getElementsByClassName('hero__content'))}
       <section className="hero__section">
-        <Header />
-        <Hero />
+          <Header />
+          <Hero />
       </section>
+      <img src="/waves.svg" />
     </div>
   );
 }

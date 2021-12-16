@@ -3,26 +3,23 @@
     flex-direction: column;
     justify-content: center;
     margin-right: auto;
-    margin-left: 200px;
     
-    .profile__image {
-        width: 150px;
-        height:150px;
-        overflow: hidden;
-        border-radius: 50%;
-        border: 2px solid #3a4042;
+    // .profile__image {
+    //     width: 150px;
+    //     height:150px;
+    //     overflow: hidden;
+    //     border-radius: 50%;
+    //     border: 2px solid #3a4042;
         
-        img {
-            width: 150px;
-        }
-    }
-
-
+    //     img {
+    //         width: 150px;
+    //     }
+    // }
 
     h1 {
-        font-size: 32px;
+        font-size: 3rem;
     }
     p {
-        max-width: 550px;
+        max-width: 450px;
     }
 }

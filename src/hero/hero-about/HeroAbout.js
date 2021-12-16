@@ -5,9 +5,9 @@ export const HeroAbout = () => {
     return (
         <div className="hero__about">
             <div className='intro'>
-                <div className="profile__image">
+                {/* <div className="profile__image">
                     <img src="./Profile.jpg"/>
-                </div>
+                </div> */}
                 <h1>Hi, my name is Tomas.</h1>
             </div>
             <p> A full-stack web developer with a passion for creating user experiences.
