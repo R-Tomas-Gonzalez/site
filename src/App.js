@@ -9,7 +9,6 @@ function App() {
           <Header />
           <Hero />
       </section>
-      <img src="/waves.svg" />
     </div>
   );
 }
