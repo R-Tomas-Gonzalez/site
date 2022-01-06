@@ -1,6 +1,7 @@
 .hero__content {
     height: calc(100% - 65px);
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
+    justify-content: space-between;
     min-width: 100%;
 }
